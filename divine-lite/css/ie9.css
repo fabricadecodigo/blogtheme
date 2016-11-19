@@ -1,0 +1,33 @@
+.kopa-home-slider-widget {
+	height: 365px;
+}
+
+.kopa-home-1 #logo-container:after {
+	border-width: 200px;
+	margin-left: -75px;
+}
+
+.kopa-home-1 #logo-container {
+	height: 89px;
+}
+
+.kopa-home-slider-widget .left-box .triangle {
+	right: -200px;
+	border-width: 0 160px 150px 0;
+}
+
+.kopa-home-slider-widget .left-box .triangle-2 {
+	border-width: 221px 210px 0 0;
+}
+
+.kopa-home-slider .flex-caption {
+	right: 32px;
+}
+
+.masonry-list .masonry-item {
+	width: 419px;
+}
+
+.kopa-home-slider-2-widget.loading {
+	min-height: 360px;
+}

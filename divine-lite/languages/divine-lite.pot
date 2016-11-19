@@ -1,0 +1,930 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Divine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-28 17:01+0700\n"
+"PO-Revision-Date: 2015-06-04 16:59+0700\n"
+"Last-Translator: kopasoft <kopasoft@gmail.com>\n"
+"Language-Team: KopaTheme <support@kopasoft.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../api/TGMPluginActivation.class.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:386
+#: ../api/TGMPluginActivation.class.php:827
+#: ../api/TGMPluginActivation.class.php:2533
+#: ../api/TGMPluginActivation.class.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:387
+#: ../api/TGMPluginActivation.class.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:388
+#: ../api/TGMPluginActivation.class.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:934
+#: ../api/TGMPluginActivation.class.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../api/TGMPluginActivation.class.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2554
+msgid "Status"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3509
+#: ../api/TGMPluginActivation.class.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3509
+#: ../api/TGMPluginActivation.class.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../api/TGMPluginActivation.class.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../comments.php:30
+msgid "<span>&laquo;</span> Previous"
+msgstr ""
+
+#: ../comments.php:31
+msgid "Next <span>&raquo;</span>"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../inc/config.php:15
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/config.php:16
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/config.php:36
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/config.php:43
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/config.php:50
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/config.php:57
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/config.php:64
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/config.php:71
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/config.php:78
+msgid "Rss"
+msgstr ""
+
+#: ../inc/config.php:79
+msgid "enter HIDE if you want to disable this option"
+msgstr ""
+
+#: ../inc/hook.php:14
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/hook.php:54 ../searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: ../inc/hook.php:55 ../inc/hook.php:57
+msgid "Loading..."
+msgstr ""
+
+#: ../inc/hook.php:56
+msgid "Load more"
+msgstr ""
+
+#: ../inc/hook.php:58
+msgid "View"
+msgstr ""
+
+#: ../inc/hook.php:59
+msgid "Views"
+msgstr ""
+
+#: ../inc/hook.php:62
+msgid "Checking"
+msgstr ""
+
+#: ../inc/hook.php:63
+msgid "Send message"
+msgstr ""
+
+#: ../inc/hook.php:64
+msgid "Sending..."
+msgstr ""
+
+#: ../inc/hook.php:67
+msgid "Your captcha is incorrect. Please try again"
+msgstr ""
+
+#: ../inc/hook.php:68
+msgid "Captcha is required"
+msgstr ""
+
+#: ../inc/hook.php:71
+msgid "Please enter your name"
+msgstr ""
+
+#: ../inc/hook.php:72 ../inc/hook.php:84
+msgid "At least {0} characters required"
+msgstr ""
+
+#: ../inc/hook.php:75
+msgid "Please enter your email"
+msgstr ""
+
+#: ../inc/hook.php:76
+msgid "Please enter a valid email"
+msgstr ""
+
+#: ../inc/hook.php:79
+msgid "Please enter your url"
+msgstr ""
+
+#: ../inc/hook.php:80
+msgid "Please enter a valid url"
+msgstr ""
+
+#: ../inc/hook.php:83
+msgid "Please enter a message"
+msgstr ""
+
+#: ../inc/hook.php:154
+msgid "Stay in touch"
+msgstr ""
+
+#: ../inc/hook.php:236
+msgid "Home"
+msgstr ""
+
+#: ../inc/hook.php:280
+#, php-format
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: ../inc/hook.php:285
+#, php-format
+msgid "Searched for \"%s\" return %s results"
+msgstr ""
+
+#: ../inc/hook.php:309
+msgid "Page not found"
+msgstr ""
+
+#: ../inc/hook.php:311
+msgid "Latest News"
+msgstr ""
+
+#: ../inc/hook.php:333
+msgid "Comment Now"
+msgstr ""
+
+#: ../inc/hook.php:336
+msgid "Comment"
+msgstr ""
+
+#: ../inc/hook.php:339
+msgid "Comments"
+msgstr ""
+
+#: ../inc/hook.php:343 ../layouts/blog-page.php:88
+#: ../layouts/search-page.php:69 ../layouts/single-post.php:71
+msgid "0 Comment"
+msgstr ""
+
+#: ../inc/hook.php:437
+msgid "Related articles"
+msgstr ""
+
+#: ../inc/hook.php:502
+msgid "Send comment"
+msgstr ""
+
+#: ../inc/hook.php:512
+msgid "Your comments"
+msgstr ""
+
+#: ../inc/hook.php:528
+msgid "Name"
+msgstr ""
+
+#: ../inc/hook.php:529
+msgid "Your full name please."
+msgstr ""
+
+#: ../inc/hook.php:534
+msgid "Your email"
+msgstr ""
+
+#: ../inc/hook.php:536
+msgid "Email address"
+msgstr ""
+
+#: ../inc/hook.php:537
+msgid "Used for gravatar."
+msgstr ""
+
+#: ../inc/hook.php:543
+msgid "Website"
+msgstr ""
+
+#: ../inc/hook.php:544
+msgid "Link back if you want."
+msgstr ""
+
+#: ../inc/layout.php:9 ../inc/sidebar.php:7 ../inc/sidebar.php:33
+msgid "Right"
+msgstr ""
+
+#: ../inc/layout.php:10 ../inc/sidebar.php:8 ../inc/sidebar.php:41
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/layout.php:11 ../inc/sidebar.php:9 ../inc/sidebar.php:49
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/layout.php:12 ../inc/sidebar.php:10 ../inc/sidebar.php:57
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/layout.php:13 ../inc/sidebar.php:11 ../inc/sidebar.php:65
+msgid "Footer 4"
+msgstr ""
+
+#: ../inc/layout.php:14 ../inc/sidebar.php:12 ../inc/sidebar.php:73
+msgid "Footer 5"
+msgstr ""
+
+#: ../inc/layout.php:44
+msgid "Static page"
+msgstr ""
+
+#: ../inc/layout.php:81
+msgid "Blog page"
+msgstr ""
+
+#: ../inc/layout.php:108 ../inc/theme-option.php:349
+msgid "Single post"
+msgstr ""
+
+#: ../inc/layout.php:135
+msgid "Search"
+msgstr ""
+
+#: ../inc/layout.php:161
+msgid "Error page - 404"
+msgstr ""
+
+#: ../inc/theme-option.php:10
+msgid "Logo"
+msgstr ""
+
+#: ../inc/theme-option.php:17
+msgid "Main Logo"
+msgstr ""
+
+#: ../inc/theme-option.php:22
+msgid "Logo image"
+msgstr ""
+
+#: ../inc/theme-option.php:25
+msgid "upload your logo image"
+msgstr ""
+
+#: ../inc/theme-option.php:29
+msgid "Margin top (px)"
+msgstr ""
+
+#: ../inc/theme-option.php:34
+msgid "Margin bottom (px)"
+msgstr ""
+
+#: ../inc/theme-option.php:40
+msgid "Margin left (px)"
+msgstr ""
+
+#: ../inc/theme-option.php:45
+msgid "Margin right (px)"
+msgstr ""
+
+#: ../inc/theme-option.php:58
+msgid "Header"
+msgstr ""
+
+#: ../inc/theme-option.php:69
+msgid "Social links"
+msgstr ""
+
+#: ../inc/theme-option.php:75
+msgid "Search form"
+msgstr ""
+
+#: ../inc/theme-option.php:81
+msgid "Sticky menubar"
+msgstr ""
+
+#: ../inc/theme-option.php:84
+msgid "Header information"
+msgstr ""
+
+#: ../inc/theme-option.php:92
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../inc/theme-option.php:101
+msgid "Show / hide"
+msgstr ""
+
+#: ../inc/theme-option.php:104
+msgid "Background image"
+msgstr ""
+
+#: ../inc/theme-option.php:112
+msgid "Footer"
+msgstr ""
+
+#: ../inc/theme-option.php:117
+msgid "Footer information"
+msgstr ""
+
+#: ../inc/theme-option.php:119
+msgid "e.g. your copyright info, ..."
+msgstr ""
+
+#: ../inc/theme-option.php:129
+msgid "Social"
+msgstr ""
+
+#: ../inc/theme-option.php:138
+msgid "Check to display Social Links"
+msgstr ""
+
+#: ../inc/theme-option.php:147
+msgid "Footer appearance effect"
+msgstr ""
+
+#: ../inc/theme-option.php:152
+msgid "Effect"
+msgstr ""
+
+#: ../inc/theme-option.php:157
+msgid "-- Select a effect --"
+msgstr ""
+
+#: ../inc/theme-option.php:227
+msgid "Duration"
+msgstr ""
+
+#: ../inc/theme-option.php:249
+msgid "Delay"
+msgstr ""
+
+#: ../inc/theme-option.php:277
+msgid "Blog posts"
+msgstr ""
+
+#: ../inc/theme-option.php:282
+msgid "The content"
+msgstr ""
+
+#: ../inc/theme-option.php:287
+msgid "For each article in list, show:"
+msgstr ""
+
+#: ../inc/theme-option.php:292
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/theme-option.php:293
+msgid "Full"
+msgstr ""
+
+#: ../inc/theme-option.php:294
+msgid "Limit number of words"
+msgstr ""
+
+#: ../inc/theme-option.php:309 ../inc/theme-option.php:355
+msgid "Metadata"
+msgstr ""
+
+#: ../inc/theme-option.php:318
+msgid "Author"
+msgstr ""
+
+#: ../inc/theme-option.php:325 ../inc/theme-option.php:371
+#: ../inc/theme-option.php:418
+msgid "Category"
+msgstr ""
+
+#: ../inc/theme-option.php:332 ../inc/theme-option.php:385
+msgid "Created date"
+msgstr ""
+
+#: ../inc/theme-option.php:339
+msgid "Comment counts"
+msgstr ""
+
+#: ../inc/theme-option.php:364
+msgid "Featured content"
+msgstr ""
+
+#: ../inc/theme-option.php:378
+msgid "Tags"
+msgstr ""
+
+#: ../inc/theme-option.php:392
+msgid "Number of comments"
+msgstr ""
+
+#: ../inc/theme-option.php:399
+msgid "Author information"
+msgstr ""
+
+#: ../inc/theme-option.php:408
+msgid "Related posts"
+msgstr ""
+
+#: ../inc/theme-option.php:413
+msgid "Get by"
+msgstr ""
+
+#: ../inc/theme-option.php:419
+msgid "Tag"
+msgstr ""
+
+#: ../inc/theme-option.php:422
+msgid "Number of posts"
+msgstr ""
+
+#: ../inc/theme-option.php:435
+msgid "Social link"
+msgstr ""
+
+#: ../layouts/blog-page.php:88 ../layouts/search-page.php:69
+#: ../layouts/single-post.php:71
+msgid "No Comment"
+msgstr ""
+
+#: ../layouts/blog-page.php:88 ../layouts/search-page.php:69
+#: ../layouts/single-post.php:71
+msgid "1 Comment"
+msgstr ""
+
+#: ../layouts/blog-page.php:88 ../layouts/search-page.php:69
+#: ../layouts/single-post.php:71
+msgid "% Comments"
+msgstr ""
+
+#: ../layouts/blog-page.php:131 ../layouts/search-page.php:100
+#: ../layouts/single-post.php:125 ../layouts/static-page.php:50
+msgid "Nothing Found..."
+msgstr ""
+
+#: ../layouts/error-404.php:12
+msgid "404"
+msgstr ""
+
+#: ../layouts/error-404.php:15
+msgid "Page not found..."
+msgstr ""
+
+#: ../layouts/error-404.php:16
+msgid ""
+"We're sorry, but we can't find the page you were looking for. It's probably "
+"some thing we've done wrong but now we know about it we'll try to fix it. In "
+"the meantime, try one of this options:"
+msgstr ""
+
+#: ../layouts/error-404.php:18
+msgid "Go back to previous page"
+msgstr ""
+
+#: ../layouts/error-404.php:19
+msgid "Go to homepage"
+msgstr ""
+
+#: ../layouts/single-post.php:93 ../layouts/static-page.php:37
+msgid "Next"
+msgstr ""
+
+#: ../layouts/single-post.php:94 ../layouts/static-page.php:38
+msgid "Previous"
+msgstr ""
+
+#: ../layouts/single-post.php:103
+msgid "Tags :"
+msgstr ""

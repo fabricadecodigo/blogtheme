@@ -1,0 +1,9 @@
+.entry-item .thumb-icon:before {
+        padding-left: 22px;
+}
+.article-list-4 .entry-item .thumb-icon:before {
+        padding: 5px 0 0 5px;
+}
+.col-md-6.col-xs-12{
+	width: 50%;
+}
