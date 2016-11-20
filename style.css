@@ -1413,7 +1413,7 @@ Header bottom
 }
 .kopa-header-bottom .wrapper .logo-box {
   position: relative;
-  margin-top: 20px;
+  margin-top: 5px;
 }
 .kopa-header-bottom.fixed {
   position: fixed;
@@ -4065,8 +4065,7 @@ body.kopa-home-2 {
 .kopa-breadcrumb .pull-left span {
   font-size: 24px;
   line-height: 24px;
-  color: #333333;
-  text-transform: capitalize;
+  color: #333333;  
   font-weight: 700;
   margin-bottom: 10px;
   display: block;

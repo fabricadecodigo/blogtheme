@@ -71,13 +71,22 @@ function divine_lite_get_social_networks(){
 		'icon'	=> 'fa fa-tumblr',
 	);		
 
+	$options[] = array(	
+		'title' =>  esc_html__( 'GitHub', 'divine-lite' ),		
+		'id'    => 'github-url',
+		'type'  => 'text',
+		'icon'	=> 'fa fa-github',
+	);
+
 	$options[] = array(
 		'title' =>  esc_html__( 'Rss', 'divine-lite' ),
 		'desc' 	  => esc_html__( 'enter HIDE if you want to disable this option', 'divine-lite' ),
 		'id'    => 'rss-url',
 		'type'  => 'text',
 		'icon'	=> 'fa fa-rss',
-	);	
+	);
+
+	
 
 	return apply_filters('divine_lite_get_social_networks', $options );
 }
